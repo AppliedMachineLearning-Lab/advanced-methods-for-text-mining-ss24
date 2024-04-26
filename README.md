@@ -1,6 +1,6 @@
 ## advanced-methods-for-text-mining-ss24 at b-it
 
-Lectures will take place every Thursday at the B-IT (Friedrich-Hirzebruch-Allee 6, 53115 Bonn, Germany). Due to introductory events at the B-IT for newcomers, the first lecture will take place on 11.04.24 from 14:00-15:30 in Room 0.107. Exercises will take place on selected Thursdays from 12:00-13:30 in the same room (the first exercise will be on 25.04.2024). The course has 4-ETCS credits and is taught by Prof. Dr. Rafet Sifa. One week prior to each lecture, a list of recommended readings (from textbooks, reports, and research papers) related to the coursework will be announced.
+Lectures will take place every Thursday at the B-IT (Friedrich-Hirzebruch-Allee 6, 53115 Bonn, Germany). Due to introductory events at the B-IT for newcomers, the first lecture will take place on 11.04.24 from 14:00-15:30 in Room 0.107. Exercises will take place on selected Thursdays from 16:15-17:15 in the same room (the first exercise will be on 25.04.2024). The course has 4-ETCS credits and is taught by Prof. Dr. Rafet Sifa. One week prior to each lecture, a list of recommended readings (from textbooks, reports, and research papers) related to the coursework will be announced.
 
 ## Dates
 
