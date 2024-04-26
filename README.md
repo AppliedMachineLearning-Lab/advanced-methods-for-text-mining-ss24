@@ -16,14 +16,9 @@ Lectures will take place every Thursday at the B-IT (Friedrich-Hirzebruch-Allee 
 | 06.06  | RNN's & Attention                |
 | 13.06  | Transformer 1                    |
 | 20.06  | Transformer 2 & State Space Models |
-
-#### Current Research Space
-
-| Date   | Topic |
-|--------|-------|
-| 27.06  | tba     |
-| 04.07  | tba     |
-| 11.07  | tba     |
+| 27.06  | Applications I                   |
+| 04.07  | Applications II                  |
+| 11.07  | Applications IIII                |
 
 #### Lectures+
 
