@@ -25,10 +25,10 @@ Lectures will take place every Thursday at the B-IT (Friedrich-Hirzebruch-Allee 
 | Date   | Topic                       |
 |--------|-----------------------------|
 | 25.04  | NLP Basics                  |
-| 16.05  | ML Basics                   |
-| 06.06  | Backprop & Autoencoder      |
+| 06.06  | ML Basics                   |
+| 13.06  | Backprop & Autoencoder      |
 | 20.06  | Transformer Strategies      |
-| 27.06  | State Space Models          |
+| 03.07  | State Space Models          |
 
 #### Assignment
 
@@ -38,8 +38,8 @@ Lectures will take place every Thursday at the B-IT (Friedrich-Hirzebruch-Allee 
 | 15.05  | Assignment 1 Deadline      |
 | 16.05  | Assignment 1 Session       |
 | 16.05  | Assignment 2 Release       |
-| 12.06  | Assignment 2 Deadline      |
-| 13.06  | Assignment 2 Session       |
-| 13.06  | Assignment 3 Release       |
-| 03.07  | Assignment 3 Deadline      |
-| 04.07  | Assignment 3 Session       |
+| 19.06  | Assignment 2 Deadline      |
+| 20.06  | Assignment 2 Session       |
+| 20.06  | Assignment 3 Release       |
+| 10.07  | Assignment 3 Deadline      |
+| 11.07  | Assignment 3 Session       |
