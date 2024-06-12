@@ -25,8 +25,7 @@ Lectures will take place every Thursday at the B-IT (Friedrich-Hirzebruch-Allee 
 | Date   | Topic                       |
 |--------|-----------------------------|
 | 25.04  | NLP Basics                  |
-| 06.06  | ML Basics                   |
-| 13.06  | Backprop & Autoencoder      |
+| 06.06  | Backprop & Autoencoder      |
 | 27.06  | Transformer Strategies      |
 | 04.07  | State Space Models          |
 
