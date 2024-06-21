@@ -15,7 +15,7 @@ Lectures will take place every Thursday at the B-IT (Friedrich-Hirzebruch-Allee 
 | 16.05  | Neural Networks                  |
 | 06.06  | RNN's & Attention                |
 | 13.06  | Transformer 1                    |
-| 20.06  | Transformer 2 & State Space Models |
+| 20.06  | Transformer 2                    |
 | 27.06  | Applications I                   |
 | 04.07  | Applications II                  |
 | 11.07  | Applications IIII                |
@@ -26,8 +26,8 @@ Lectures will take place every Thursday at the B-IT (Friedrich-Hirzebruch-Allee 
 |--------|-----------------------------|
 | 25.04  | NLP Basics                  |
 | 06.06  | Backprop & Autoencoder      |
-| 27.06  | Transformer Strategies      |
-| 04.07  | State Space Models          |
+| 27.06  | State Space Models          |
+| 04.07  | Transformer Strategies      |
 
 #### Assignment
 
